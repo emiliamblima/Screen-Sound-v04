@@ -1,0 +1,15 @@
+D:\curso c# alura\Screen Sound-v04\bin\Debug\net7.0\Screen Sound-v04.exe
+D:\curso c# alura\Screen Sound-v04\bin\Debug\net7.0\Screen Sound-v04.deps.json
+D:\curso c# alura\Screen Sound-v04\bin\Debug\net7.0\Screen Sound-v04.runtimeconfig.json
+D:\curso c# alura\Screen Sound-v04\bin\Debug\net7.0\Screen Sound-v04.dll
+D:\curso c# alura\Screen Sound-v04\bin\Debug\net7.0\Screen Sound-v04.pdb
+D:\curso c# alura\Screen Sound-v04\obj\Debug\net7.0\Screen Sound-v04.csproj.AssemblyReference.cache
+D:\curso c# alura\Screen Sound-v04\obj\Debug\net7.0\Screen Sound-v04.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso c# alura\Screen Sound-v04\obj\Debug\net7.0\Screen Sound-v04.AssemblyInfoInputs.cache
+D:\curso c# alura\Screen Sound-v04\obj\Debug\net7.0\Screen Sound-v04.AssemblyInfo.cs
+D:\curso c# alura\Screen Sound-v04\obj\Debug\net7.0\Screen Sound-v04.csproj.CoreCompileInputs.cache
+D:\curso c# alura\Screen Sound-v04\obj\Debug\net7.0\Screen Sound-v04.dll
+D:\curso c# alura\Screen Sound-v04\obj\Debug\net7.0\refint\Screen Sound-v04.dll
+D:\curso c# alura\Screen Sound-v04\obj\Debug\net7.0\Screen Sound-v04.pdb
+D:\curso c# alura\Screen Sound-v04\obj\Debug\net7.0\Screen Sound-v04.genruntimeconfig.cache
+D:\curso c# alura\Screen Sound-v04\obj\Debug\net7.0\ref\Screen Sound-v04.dll
